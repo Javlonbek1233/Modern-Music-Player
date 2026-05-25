@@ -1,0 +1,6 @@
+{
+  "name": "Modern Music Player",
+  "description": "A feature-rich, high-fidelity music streaming website featuring an interactive audio visualizer, playlist management, simulated audio playback, curated artists, and user behavior profiling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
